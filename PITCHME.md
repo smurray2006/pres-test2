@@ -1,5 +1,13 @@
-Hello World!
+Hello!
+
 +++
-Slide 2
+
+Hola!
+
 ---
-The End
+
+Goodbye!
+
++++
+
+Adiós!
